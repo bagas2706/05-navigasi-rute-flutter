@@ -1,16 +1,14 @@
-# navigasi_rute
+# PRAKTIKUM 05
 
-A new Flutter project.
+Nama : Bagas Prambudi
+Kelas : MI 2C
+Nim : 2031710108
+Prodi : D-3 Manajemen Informatika
 
-## Getting Started
+## NAVIGASI DAN RUTE
 
-This project is a starting point for a Flutter application.
+![home](img/home.png)
 
-A few resources to get you started if this is your first Flutter project:
+![salt](img/salt.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sugar](img/sugar.png)
